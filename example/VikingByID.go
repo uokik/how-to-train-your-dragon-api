@@ -1,4 +1,4 @@
-package main
+package example4
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 	httydAPI "github.com/szzok/how-to-train-your-dragon-api"
 )
 
-func main() {
+func example4() {
 	viking := httydAPI.GetVikingByID(6)
 
 	if viking != nil {
