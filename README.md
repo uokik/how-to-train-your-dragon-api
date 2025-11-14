@@ -6,7 +6,11 @@ Simple Go library to fetch information about vikings and dragons from the "How T
 
 ## Goals
 
-- Add all dragons and vikings
+- Add more dragons
+- Add more vikings
+- Add more locations
+- Add more info for all 
+
   
 ## Status
 
