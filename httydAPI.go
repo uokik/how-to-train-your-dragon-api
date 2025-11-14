@@ -1,6 +1,6 @@
 package httydAPI
 
-import "github.com/szzok/HowToTrainYourDragonAPI/service"
+import "github.com/szzok/how-to-train-your-dragon-api/service"
 
 var (
 	GetAllVikings = service.GetAllVikings

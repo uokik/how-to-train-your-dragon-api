@@ -1,6 +1,6 @@
 package service
 
-import "github.com/szzok/HowToTrainYourDragonAPI/model"
+import "github.com/szzok/how-to-train-your-dragon-api/model"
 
 func GetAllVikings() []model.Viking {
 	return model.Vikings
