@@ -16,6 +16,13 @@ Simple Go library to fetch information about vikings and dragons from the "How T
 
 ⚠️ Work in progress — some features are missing or not fully polished
 
+## Functions
+
+- Fetching Dragons by ID, Class or all
+- Fetching Vikings by ID or all
+- Fetching Locations by ID or all
+
+
 ## Installation
 
 Make sure you have Go 1.25 or newer installed
@@ -28,4 +35,8 @@ Feel free to open issues or submit pull requests. Any help or feedback is welcom
 
 ## Credits
 
-This project uses dragon and viking descriptions sourced from [RomainChamb](https://github.com/RomainChamb/httydApi).  
+This project uses some dragons, vikings and locations descriptions sourced from 
+
+[RomainChamb](https://github.com/RomainChamb/httydApi) 
+and 
+[howtotrainyourdragon.fandom.com](https://howtotrainyourdragon.fandom.com/wiki/Category:Dragon_Species_from_the_Franchise)
