@@ -46,4 +46,5 @@ var Dragons = []Dragon{
 	{ID: 35, Name: " ", Species: "Razorwhip", Class: "Sharp", Description: "Try to get on this Dragon's good side... if you can find one. Their toxic breath and razor-sharp tail make them dangerous from top to bottom"},
 	{ID: 36, Name: " ", Species: "Sand Wraith", Class: "Tidal", Description: " A Tidal Class expert in camouflage that buries itself in the sand. It's a good way to surprise their prey"},
 	{ID: 37, Name: " ", Species: "Scauldron", Class: "Tidal", Description: "This huge underwater dragon is a speedy and silent swimmer. Instead of breathing fire, Scauldron spits scalding hot water at its prey"},
+	{ID: 38, Name: " ", Species: "Screaming Death", Class: "Boulder", Description: " Born every one hundred or so years, the Screaming Death has all the strengths of its subordinate cousin, the Whispering Death, with none of its weaknesses. It is the most powerful dragon Berk has faced since the Red Death"},
 }

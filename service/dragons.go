@@ -14,3 +14,13 @@ func GetDragonByID(id int) *model.Dragon {
 	}
 	return nil
 }
+
+func GetDragonsByClass(class string) []model.Dragon {
+	var dragons []model.Dragon
+	for _, d := range model.Dragons {
+		if d.Class == class {
+			dragons = append(dragons, d)
+		}
+	}
+	return dragons
+}
