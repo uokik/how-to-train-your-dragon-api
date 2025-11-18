@@ -17,4 +17,5 @@ var Locations = []Location{
 	{ID: 7, Name: "Outcast Island", Inhabitants: "Outcast Tribe", Description: "The Outcasts are a tribe of Vikings that have been banished from various tribes, particularly the Hooligan Tribe. Its leader is Alvin the Treacherous, a former Hooligan. While originally enemies of Berk, the two tribes eventually made peace and became allies."},
 	{ID: 8, Name: "Valhalla", Inhabitants: "Dead Vikings", Description: "Valhalla is the Norse location where worthy Vikings are believed to go when they die. It is mentioned numerous times in the franchise, commonly alongside a mention of dying, or just simply used for a random Viking phrase."},
 	{ID: 9, Name: "Wingmaiden Island", Inhabitants: "Wingmaidens", Description: "Wingmaiden Island is the home of the Wingmaidens and nesting grounds to Razorwhip dragons. It makes its first appearance in Dragons: Race to the Edge, Season 5, in the episode Snotlout's Angels."},
+	{ID: 10, Name: "Caldera Cay", Inhabitants: "Defenders of the wing", Description: "Caldera Cay, also called Defenders of the Wing Island, is an island that served as the headquarters of the Defenders of the Wing tribe"},
 }
