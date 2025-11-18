@@ -63,5 +63,9 @@ var Dragons = []Dragon{
 	{ID: 52, Name: " ", Species: "Submaripper", Class: "Tidal", Description: "Hailing from the Tidal Class, the Submaripper has sent many a Viking to a watery grave with its ability to create inescapable whirlpools"},
 	{ID: 53, Name: " ", Species: "Thunderclaw", Class: "Tracker", Description: "hunderclaws are pretty cute. Feisty, but cute"},
 	{ID: 54, Name: " ", Species: "Thunderdrum", Class: "Tidal", Description: "This reclusive dragon inhabits sea caves and dark tide pools. When startled, the Thunderdrum produces a concussive sound that can kill a man at close range"},
+	{ID: 55, Name: " ", Species: "Triple Stryke", Class: "Strike", Description: "This giant Strike Class Dragon's three tails can slash through its enemies or snake around its prey"},
+	{ID: 56, Name: " ", Species: "Typhoomerang", Class: "Stoker", Description: "Much like the rings inside a tree, the scorch mark can tell you the age and thus the size of the Typhoomerang in question"},
+	{ID: 57, Name: " ", Species: "Windgnasher", Class: "Tracker", Description: "With a strong enough wind, these humped back dragons can pick up a scent from anywhere in the archipelago or beyond"},
+	{ID: 58, Name: " ", Species: "Windstriker", Class: "Sharp", Description: "A Sharp Class skydiver that is literally full of hot air! Instead of breathing fire they shoot super-heated blasts of air that sets their foes ablaze"},
 	//{ID: 55, Name: " ", Species: "", Class: "", Description: ""},
 }
