@@ -61,5 +61,7 @@ var Dragons = []Dragon{
 	{ID: 50, Name: " ", Species: "Songwing", Class: "Strike", Description: "Small body but big wings"},
 	{ID: 51, Name: " ", Species: "Speed Stinger", Class: "Sharp", Description: "They don't fly but they're fast. Faster than any dragon I've ever seen, and they hide in the shadows"},
 	{ID: 52, Name: " ", Species: "Submaripper", Class: "Tidal", Description: "Hailing from the Tidal Class, the Submaripper has sent many a Viking to a watery grave with its ability to create inescapable whirlpools"},
-	// {ID: 53, Name: " ", Species: "", Class: "", Description: ""},
+	{ID: 53, Name: " ", Species: "Thunderclaw", Class: "Tracker", Description: "hunderclaws are pretty cute. Feisty, but cute"},
+	{ID: 54, Name: " ", Species: "Thunderdrum", Class: "Tidal", Description: "This reclusive dragon inhabits sea caves and dark tide pools. When startled, the Thunderdrum produces a concussive sound that can kill a man at close range"},
+	//{ID: 55, Name: " ", Species: "", Class: "", Description: ""},
 }
