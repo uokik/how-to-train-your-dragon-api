@@ -7,7 +7,7 @@ import (
 	httydAPI "github.com/szzok/how-to-train-your-dragon-api"
 )
 
-func example() {
+func main() {
 	dragon := httydAPI.GetDragonByID(4)
 
 	if dragon != nil {

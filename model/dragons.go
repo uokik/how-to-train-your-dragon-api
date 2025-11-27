@@ -67,5 +67,5 @@ var Dragons = []Dragon{
 	{ID: 56, Name: " ", Species: "Typhoomerang", Class: "Stoker", Description: "Much like the rings inside a tree, the scorch mark can tell you the age and thus the size of the Typhoomerang in question"},
 	{ID: 57, Name: " ", Species: "Windgnasher", Class: "Tracker", Description: "With a strong enough wind, these humped back dragons can pick up a scent from anywhere in the archipelago or beyond"},
 	{ID: 58, Name: " ", Species: "Windstriker", Class: "Sharp", Description: "A Sharp Class skydiver that is literally full of hot air! Instead of breathing fire they shoot super-heated blasts of air that sets their foes ablaze"},
-	//{ID: 55, Name: " ", Species: "", Class: "", Description: ""},
+	// {ID: 55, Name: " ", Species: "", Class: "", Description: ""},
 }
