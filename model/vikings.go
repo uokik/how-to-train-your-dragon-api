@@ -32,5 +32,8 @@ var Vikings = []Viking{
 	{ID: 21, FirstName: "Gustav", LastName: "Larson", Gender: "Male", Location: "Isle of Berk"},
 	{ID: 22, FirstName: "Gothi", LastName: " ", Gender: "Female", Location: "Isle of Berk"},
 	{ID: 23, FirstName: "Mala", LastName: " ", Gender: "Female", Location: "Caldera Cay"},
+	{ID: 24, FirstName: "Mildew", LastName: " ", Gender: "Male", Location: "Outcast Island"},
+	{ID: 25, FirstName: "Minden", LastName: " ", Gender: "Female", Location: "Wingmaiden Island"},
+	{ID: 26, FirstName: "Mr. Murderous Pile of Yak Dung", LastName: " ", Gender: "Male", Location: "Unknown"},
 	//{ID: 20, FirstName: "", LastName: " ", Gender: "", Location: ""},
 }
