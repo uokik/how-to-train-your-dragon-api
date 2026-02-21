@@ -6,8 +6,8 @@ Simple Go library to fetch information about vikings and dragons from the "How T
 
 ## Goals
 
-- Add more dragons (curently 61)
-- Add more vikings (curently 26)
+- Add more dragons (curently 64)
+- Add more vikings (curently 29)
 - Add more locations (curently 10)
 - Add more info for all
 
@@ -29,8 +29,7 @@ go get github.com/szzok/how-to-train-your-dragon-api@master
 
 ## Usage
 
-
-```go get github.com/uokik/how-to-train-your-dragon-api@master```
+`go get github.com/uokik/how-to-train-your-dragon-api@master`
 
 ```
 go

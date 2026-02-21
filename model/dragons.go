@@ -69,5 +69,9 @@ var Dragons = []Dragon{
 	{ID: 58, Name: " ", Species: "Hobblegrunt", Class: "Stoker", Description: "Hobblegrunts are considered lucky dragons and that they can predict certain things, both good and bad, a split second before they actually happen"},
 	{ID: 59, Name: " ", Species: "Raincutter", Class: "Sharp", Description: "Raincutters share distaste for the sun and warm weather, since those signal that feeding time is over"},
 	{ID: 60, Name: " ", Species: "Threadtail", Class: "Stoker", Description: "Threadtails are allergic to their own poison. They often roll around in Dragonberry bushes to scratch their itchy skin"},
-	//	{ID: 62, Name: " ", Species: "", Class: "", Description: ""},
+	{ID: 61, Name: " ", Species: "Grim Gnasher", Class: "Sharp", Description: "Despite their relatively small size, Grim Gnashers love nothing more than to sink their thousands of teeth into weaker dragons"},
+	{ID: 62, Name: " ", Species: "Sandbuster", Class: "Mystery", Description: "This shifty critter swims through the sand, catching victims unaware and pulls them underground"},
+	{ID: 63, Name: " ", Species: "Night Light", Class: "Strike", Description: "They are the ridiculously adorable offspring of the Night Fury and the Light Fury"},
+	{ID: 64, Name: " ", Species: "Large Shadow Wing", Class: "Stoker", Description: "This large, sturdy Dragon acts as a protector for its smaller cousins. Watch out for bombardment when they form a pack under its wings"},
+	//{ID: 63, Name: " ", Species: "", Class: "", Description: ""},
 }
