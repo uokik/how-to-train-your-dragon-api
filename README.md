@@ -29,7 +29,9 @@ go get github.com/szzok/how-to-train-your-dragon-api@master
 
 ## Usage
 
-`go get github.com/uokik/how-to-train-your-dragon-api@master`
+
+```go
+get github.com/uokik/how-to-train-your-dragon-api@master```
 
 ```
 go
