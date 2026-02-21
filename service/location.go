@@ -1,6 +1,6 @@
 package service
 
-import "github.com/szzok/how-to-train-your-dragon-api/model"
+import "github.com/uokik/how-to-train-your-dragon-api/model"
 
 func GetAllLocations() []model.Location {
 	return model.Locations
