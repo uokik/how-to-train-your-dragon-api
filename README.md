@@ -31,7 +31,7 @@ go get github.com/szzok/how-to-train-your-dragon-api@master
 
 ## Usage
 
-````go
+```go
 package main
 
 import (
@@ -42,7 +42,7 @@ httydAPI "[github.com/szzok/how-to-train-your-dragon-api](https://github.com/szz
 func main() {
 dragon := httydAPI.GetDragonByID(1)
 fmt.Println("Found dragon:", dragon.Name)
-}```
+}
 
 ## Contribution
 
@@ -55,4 +55,5 @@ This project uses some dragons, vikings and locations descriptions sourced from
 [RomainChamb](https://github.com/RomainChamb/httydApi)
 and
 [howtotrainyourdragon.fandom.com](https://howtotrainyourdragon.fandom.com/wiki/Category:Dragon_Species_from_the_Franchise)
-````
+
+```
