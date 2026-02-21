@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	httydAPI "github.com/szzok/how-to-train-your-dragon-api"
+	httydAPI "github.com/uokik/how-to-train-your-dragon-api"
 )
 
 // all
