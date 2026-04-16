@@ -13,7 +13,7 @@ Simple Go library to fetch information about vikings and dragons from the "How T
 
 ## Status
 
-⚠️ Work in progress — some features are missing or not fully polished
+⚠️ Work in progress - some features are missing or not fully polished
 
 ## Functions
 
