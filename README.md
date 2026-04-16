@@ -1,4 +1,4 @@
-# How To Train Your Dragon API
+# How To Train Your Dragon Wrapper
 
 ![Go](https://img.shields.io/badge/Go-1.25-blue?logo=go&style=for-the-badge) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
